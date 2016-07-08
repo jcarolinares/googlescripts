@@ -1,5 +1,5 @@
-# googlescripts
-Some Google Apps scripts to use inside Google drive
+# FoldersTreeGenerator
+A Google Apps Script that generate a tree of folders inside your root folder.
 
 Created by Julián Caro Linares
 
