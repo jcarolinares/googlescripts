@@ -1,5 +1,5 @@
 # Editorial revision Script
-A Google Apps Script that look for some editorial forbbiden words and others changes.
+A Google Apps Script that look for some editorial forbdiden words and others changes.
 
 Created by Julián Caro Linares
 
